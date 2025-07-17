@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/Sukhmanpreet Singh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://youtube.com/SJ Productions"><img src="https://img.shields.io/youtube/channel/subscribers/:@sjproductions6070" /></a>
+  <a href="https://youtube.com/SJ Productions"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" /></a>
   <a href="https://instagram.com/Sjveer1_1314"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="mailto:sukhmanpreets2685@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
