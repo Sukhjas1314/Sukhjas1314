@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sukhjas1314/Sukhjas1314/main/assets/banner.gif" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sukhjas1314/Sukhjas1314/main/assets/Banner.gif" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sukhmanpreet Singh</h1>
