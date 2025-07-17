@@ -3,16 +3,13 @@
   <img src="https://raw.githubusercontent.com/Sukhjas1314/Sukhjas1314/main/assets/Banner.gif" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sukhmanpreet Singh</h1>
-<h3 align="center">AI/ML Engineer | Frontend Web Developer | Tech Explorer</h3>
-
----
+---------------------
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Frontend+Web+Developer;Open+Source+Contributor;Python+%7C+Django+%7C+React+%7C+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=AI+%2F+ML+Engineer;Frontend+Web+Developer;Open+Source+Contributor;" alt="Typing SVG" />
 </p>
 
----
+---------------------
 
 ## 🚀 About Me
 
@@ -79,10 +76,10 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sukhmanpreet-singh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/techno_ai_cosmos"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Sukhmanpreet Singh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://youtube.com/SJ Productions"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/Sjveer1_1314"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:sukhmanpreets2685@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
