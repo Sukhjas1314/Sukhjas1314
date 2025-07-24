@@ -64,9 +64,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚀 [Fake News Detection](https://github.com/yourusername/fake-news-detection) | AI-based system to detect fake news using NLP & ML algorithms |
-| 🧾 [Hospital Bill Parser](https://github.com/yourusername/hospital-bill-parser) | Layout-aware OCR system to extract line items from scanned PDFs |
-| 🌐 [AI Portfolio Site](https://github.com/yourusername/portfolio) | Responsive, animated portfolio using React.js and Framer Motion |
+| 🚀 [Fake News Detection](https://github.com/Sukhjas1314/fake-news-detection) | AI-based system to detect fake news using NLP & ML algorithms |
+| 🧾 [Hospital Bill Parser](https://github.com/Sukhjas1314/hospital-bill-parser) | Layout-aware OCR system to extract line items from scanned PDFs |
+| 🌐 [Portfolio Site](https://github.com/Sukhjas1314/Portfolio) | Responsive, animated portfolio using React.js and Framer Motion |
 
 ---
 
