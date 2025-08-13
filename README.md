@@ -67,6 +67,7 @@
 | 🚀 [AI/ML minor projects](https://github.com/Sukhjas1314/ML-minor-projects) | AI-based system & ML algorithms used to built a number of projects like Diabetes prediction, movie recommendation sytem etc. |
 | 🧾 [Frontend minor projects](https://github.com/Sukhjas1314/Javascript-minor-projects) | There are a number of frontend projects built using HTML, CSS and Javascript |
 | 🌐 [Portfolio Site](https://github.com/Sukhjas1314/Portfolio) | Responsive, animated portfolio using HTML, CSS and Javascript |
+| 🌐 [Python Projects](https://github.com/Sukhjas1314/Python-Minor-projects) | Minor-projects made using Python,Flask etc. |
 
 ---
 
